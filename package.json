@@ -44,6 +44,6 @@
   },
   "scripts": {
     "start": "server",
-    "test": "karma start",
+    "test": "karma start"
   }
 }
